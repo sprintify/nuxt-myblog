@@ -1,3 +1,19 @@
 <template>
-    <div>Blog Post 2 content. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta, fugiat rem neque nemo cum corporis cupiditate aperiam! Atque voluptatum voluptatem modi laudantium nam alias voluptates hic ullam, cum deserunt odio ratione provident ab eos libero eum cumque natus? Animi, dolore.</div>
+  <div class="container-inner m-auto leading-normal">
+      <h1 class="mb-4">Blog Post 2</h1>
+      <p class="mb-4 text-lg">
+          Reprehenderit laboriosam cum architecto ex perspiciatis debitis labore iste est repudiandae eaque autem consequatur blanditiis quisquam et nisi ipsum ea, corporis provident vel? Rem eos reprehenderit, impedit rerum ipsum incidunt. Atque dicta id quam officia quibusdam, minima voluptate sint non sapiente ad.
+      </p>
+        <p class="mb-4 text-lg">
+         Consectetur adipisicing elit. Reprehenderit laboriosam cum architecto ex perspiciatis debitis labore iste est repudiandae eaque autem consequatur blanditiis quisquam et nisi ipsum ea, corporis provident vel? Rem eos reprehenderit, impedit rerum ipsum incidunt. Atque dicta id quam officia quibusdam, minima voluptate sint non sapiente ad.
+      </p>
+        <p class="mb-4 text-lg">
+          Baggio is comming laboriosam cum architecto ex perspiciatis debitis labore iste est repudiandae eaque autem consequatur blanditiis quisquam et nisi ipsum ea, corporis provident vel? Rem eos reprehenderit, impedit rerum ipsum incidunt. Atque dicta id quam officia quibusdam, minima voluptate sint non sapiente ad.
+      </p>
+        <p class="mb-4 text-lg">
+         Ipsum dolor sit amet consectetur adipisicing cum architecto ex perspiciatis debitis labore iste est repudiandae eaque autem consequatur blanditiis quisquam et nisi ipsum ea, corporis provident vel? Rem eos reprehenderit, impedit rerum ipsum incidunt. Atque dicta id quam officia quibusdam, minima voluptate sint non sapiente ad.
+      </p>
+
+
+  </div>
 </template>

@@ -1,6 +1,7 @@
 <template>
   <div class="container font-sans text-black">
     <main-navigation></main-navigation>
+
     <nuxt />
   </div>
 </template>
@@ -13,14 +14,3 @@ export default {
   }
 }
 </script>
-
-
-<style>
-  .container-inner {
-    max-width: 650px;
-  }
-  .nav.nuxt-link-active {
-    font-weight: bold;
-    text-decoration: underline;
-  }
-</style>
